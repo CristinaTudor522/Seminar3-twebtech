@@ -1,0 +1,11 @@
+{
+    "name":"Cristina Tudor",
+    "age":21,
+    "skills":["ambitious","hardworking"],
+    "education":[{
+                "institution":"CSIE",
+                "educationLevel":"3rd year",
+                "startYear":2018,
+                "endYear":2021
+                }]
+}
